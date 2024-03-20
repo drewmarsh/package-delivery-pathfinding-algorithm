@@ -1,4 +1,4 @@
-# package-delivery-pathfinding-algorithm
+# Package Delivery Pathfinding Algorithm
 Package delivery pathfinding program that utilizes the nearest neighbor algorithm and hash table data structure
 
 # Output Preview
