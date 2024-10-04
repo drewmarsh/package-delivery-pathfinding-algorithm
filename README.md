@@ -72,12 +72,6 @@ F. Develop a look-up function that takes the following components as input and r
 
 G. Provide an interface for the insert and look-up functions to view the status of any package at any time. This function should return all information about each package, including delivery status.
 
-    1. Provide screenshots to show package status of all packages at a time between 8:35 a.m. and 9:25 a.m.
-    2. Provide screenshots to show package status of all packages at a time between 9:35 a.m. and 10:25 a.m.
-    3. Provide screenshots to show package status of all packages at a time between 12:03 p.m. and 1:12 p.m.
-
-H. Run your code and provide screenshot(s) to capture the complete execution of your code.
-
 # 🔎 Output Preview
 ![terminal_preview](https://github.com/drewmarsh/package-delivery-pathfinding-algorithm/assets/78824781/1cff66d0-a264-4724-ac7a-7cbb711fc6bb)
 
